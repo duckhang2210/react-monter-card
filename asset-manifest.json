@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-monter-card/static/css/main.220b0472.chunk.css",
+    "main.js": "/react-monter-card/static/js/main.fb2d8282.chunk.js",
+    "main.js.map": "/react-monter-card/static/js/main.fb2d8282.chunk.js.map",
+    "runtime-main.js": "/react-monter-card/static/js/runtime-main.2fe6b444.js",
+    "runtime-main.js.map": "/react-monter-card/static/js/runtime-main.2fe6b444.js.map",
+    "static/js/2.12d1352d.chunk.js": "/react-monter-card/static/js/2.12d1352d.chunk.js",
+    "static/js/2.12d1352d.chunk.js.map": "/react-monter-card/static/js/2.12d1352d.chunk.js.map",
+    "static/js/3.4b3f81f7.chunk.js": "/react-monter-card/static/js/3.4b3f81f7.chunk.js",
+    "static/js/3.4b3f81f7.chunk.js.map": "/react-monter-card/static/js/3.4b3f81f7.chunk.js.map",
+    "index.html": "/react-monter-card/index.html",
+    "static/css/main.220b0472.chunk.css.map": "/react-monter-card/static/css/main.220b0472.chunk.css.map",
+    "static/js/2.12d1352d.chunk.js.LICENSE.txt": "/react-monter-card/static/js/2.12d1352d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fe6b444.js",
+    "static/js/2.12d1352d.chunk.js",
+    "static/css/main.220b0472.chunk.css",
+    "static/js/main.fb2d8282.chunk.js"
+  ]
+}
